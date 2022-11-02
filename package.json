@@ -1,0 +1,28 @@
+{
+  "name": "jinxyang",
+  "version": "1.0.0",
+  "description": "components, hooks, etc. for React",
+  "main": "index.js",
+  "scripts": {
+    "prepare": "husky install"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jinxyang/jinxyang.git"
+  },
+  "keywords": [
+    "jinxyang",
+    "react"
+  ],
+  "author": "Jinxyang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jinxyang/jinxyang/issues"
+  },
+  "homepage": "https://github.com/jinxyang/jinxyang#readme",
+  "devDependencies": {
+    "@commitlint/cli": "^17.2.0",
+    "@commitlint/config-conventional": "^17.2.0",
+    "husky": "^8.0.1"
+  }
+}
